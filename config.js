@@ -20,7 +20,7 @@ global.author = "INDOBOT"
 global.sessionName = "QR-NEZUKO"
 global.NomeDoBot = "INDOBOT"
 global.linkgrupss = "https://chat.whatsapp.com/JWUduq5Kmeg5dn9fwsMvSm"
-global.prefix = "..."
+global.prefix = "!"
 global.NickDono = "INDOBOT"
 global.websitex = "https://youtu.be/_BfZRdFFdE8"
 
