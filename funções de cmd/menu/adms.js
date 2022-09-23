@@ -61,6 +61,7 @@ const adms = (prefix) => {
 ┃么|〆${prefix}novolink
 ┃么|〆${prefix}infogp
 ┃么|〆${prefix}abrirgp
+┃么|〆${prefix}antiporno
 ╰┅═┅═┅═┅═┅═┅═┅═╯
 ${NomeDoBot}
 `
