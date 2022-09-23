@@ -6,13 +6,13 @@ const menu = (prefix, pushname, numerodn, bioo, NomeDoBot,  wame) => {
 
 return `
 ╭━━━ •𖧹❀⃘࣭࣭࣭࣭ٜꔷ⃔໑࣭࣭ٜ 👨‍💻 ❀⃘࣭࣭࣭࣭ٜꔷ⃔໑࣭࣭ٜ𖧹• ━━━╮
-                𝑵 𝑬 𝒁 𝑼 𝑲 𝑶 - 𝑴 𝑫
+                INDOBOT
  ╰━━━ •𖧹❀⃘࣭࣭࣭࣭ٜꔷ⃔໑࣭࣭ٜ 👨‍💻 ❀⃘࣭࣭࣭࣭ٜꔷ⃔໑࣭࣭ٜ𖧹• ━━━╯
 
 ╭┅═┅═┅═┅═┅═┅═┅═ ⪨
 ┃❑╭━━ ⪩ 『 ɪɴғᴏ ʙᴏᴛ 』
 ┃么|〆ɴᴏᴍᴇ: ${pushname}
-┃么|〆ᴅᴏɴᴏ: ᴅᴀɴɪᴇʟ 
+┃么|〆ᴅᴏɴᴏ: LEO 
 ┃么|〆ʙᴏᴛ: ${NomeDoBot}
 ┃么|〆ᴘʀᴇғɪxᴏ: 『  ${prefix}  』
 ┃么|〆ᴠᴇʀsᴀ̃ᴏ : 3.1
@@ -196,6 +196,7 @@ return `
 ┃么|〆${prefix}novolink
 ┃么|〆${prefix}infogp
 ┃么|〆${prefix}abrirgp
+┃么|〆${prefix}antiporn
 ╰━┅═┅═┅═┅═┅═┅═┅═ ⪨
 
 ╭┅═┅═┅═┅═┅═┅═┅═ ⪨
